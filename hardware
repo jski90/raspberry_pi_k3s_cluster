@@ -1,4 +1,5 @@
 This is a list of the hardware I have used to get this cluster up and running:
+(I will do a section below of non-affiliate links for all of the hardware I used to get this up and running)
 
 Qty:        Item:
 4           Raspberry Pi 4B 4GB RAM 
@@ -13,7 +14,7 @@ Qty:        Item:
 4           SanDisk 64GB 5-Pack Ultra Fit USB 3.1 Flash Drive (Used as persistent storage for cluster)
 1           M4 Standoff Kit (This will be needed for use with the PoE+ Hats in conjunction with header extenders)
 
-****NOTES****I WILL DO A SECTION BELOW FOR LINKS (NON-AFFILIATE) FOR ALL HARDWARE I USED****
+****NOTES****
 
 -I decided to use the 4GB Raspberry Pi, but if you have access to, or want to spend more money, the 8GB units would be more ideal.  However, the performance is still great with the 4GB units.  You'll have to make that decision for yourself which will work best for your use case.  With how expensive the RPi's are right now, I'm happy with 4GB.
 
