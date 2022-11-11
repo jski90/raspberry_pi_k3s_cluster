@@ -1,0 +1,20 @@
+So the first step we will undertake is setting up our Raspberry Pi to use USB boot.  This will allow us to use our USB stick that we will later flash our OS instead of having to use an SD card.  We will, however, need the SD card to accomplish this.
+
+**Step 1.** We will need to head over to the official Raspberry Pi website (https://www.raspberrypi.org/downloads/) and download their provided imager.
+
+**Step 2.** Insert your MicroSD card (with or without adapter, my laptop has a MicroSD card slot built in so I didn't need an adapter).
+
+**Step 3.** Once our download is complete, we will go ahead and open up the imager.  Click on the "CHOOSE OS" button and scroll down to "Misc utility images".
+
+**Step 4.** Click on "Bootloader"
+
+**Step 5.** Click on "USB Boot"
+
+**Step 6.** After clicking "USB Boot", from the main menu of the imager, we will click the "CHOOSE STORAGE" button.  Be very careful and make sure you don't click the incorrect drive here or you will flash over everything on the drive that you are not intending to flash to.
+
+**Step 7.** Click "WRITE" and allow the imager to write the USB Boot files to the card.
+
+**Step 8.** Insert the SD card into your Raspberry Pi and power it on.  This may take a few minutes, but allow the process to complete before powering down and removing the SD card.  I allowed about 2 minutes per Pi for this to complete, just to be sure.  You will need to do this for every Raspberry Pi you plan on using, and you shouldn't need to reflash the "USB Boot" onto the SD card each time.  Just remove from the Pi that is finished, and insert and start the process over for each Pi you're planning on using.
+
+
+And that's it for setting up USB Boot for your Raspberry Pi!  We will move on to flashing our OS of choice to our USB in the next file.
