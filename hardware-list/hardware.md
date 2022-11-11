@@ -16,9 +16,13 @@ Qty:        Item:
 1           6 Pack Cat6 Ethernet Patch Cables (1ft) (Short cable only needed for attachment of Pi to PoE+ Switch)
 
 1           GeekPi Raspberry Pi Cluster Case (4 Pi Cluster Case)
+
 1           32GB Silicon Power 32GB 3D NAND High Speed MicroSD Card with Adapter (I am using USB Boot so a cheap SD card should be fine for flashing)
+
 4           SanDisk 32GB Cruzer Fit USB 2.0 Flash Drive (Used as boot drive)
+
 4           SanDisk 64GB 5-Pack Ultra Fit USB 3.1 Flash Drive (Used as persistent storage for cluster)
+
 1           M4 Standoff Kit (This will be needed for use with the PoE+ Hats in conjunction with header extenders)
 
 ****NOTES****
