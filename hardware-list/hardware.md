@@ -2,7 +2,7 @@ This is a list of the hardware I have used to get this cluster up and running:
 (I will do a section below of non-affiliate links for all of the hardware I used to get this up and running)
 
 Qty:        Item:
-4           Raspberry Pi 4B 4GB RAM 
+4						Raspberry Pi 4B 4GB RAM 
 4           Official Raspberry Pi PoE+ Hats
 4           GPIO Header Extender
 4           PoE Header Extender
