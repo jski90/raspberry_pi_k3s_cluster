@@ -2,12 +2,19 @@ This is a list of the hardware I have used to get this cluster up and running:
 (I will do a section below of non-affiliate links for all of the hardware I used to get this up and running)
 
 Qty:        Item:
+
 4						Raspberry Pi 4B 4GB RAM 
+
 4           Official Raspberry Pi PoE+ Hats
+
 4           GPIO Header Extender
+
 4           PoE Header Extender
+
 1           NETGEAR 5 Port w/ 4 PoE+ Ports Switch
+
 1           6 Pack Cat6 Ethernet Patch Cables (1ft) (Short cable only needed for attachment of Pi to PoE+ Switch)
+
 1           GeekPi Raspberry Pi Cluster Case (4 Pi Cluster Case)
 1           32GB Silicon Power 32GB 3D NAND High Speed MicroSD Card with Adapter (I am using USB Boot so a cheap SD card should be fine for flashing)
 4           SanDisk 32GB Cruzer Fit USB 2.0 Flash Drive (Used as boot drive)
