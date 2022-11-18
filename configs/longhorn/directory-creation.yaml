@@ -1,0 +1,6 @@
+- hosts: all
+  tasks:
+  - name: Create /var/lib/longhorn directory in nodes
+    file:
+      path: /var/lib/longhorn
+      state: directory
