@@ -46,7 +46,7 @@ This is a list of the hardware I have used to get this cluster up and running:
 
 - Raspberry Pi: You're going to have to do some work on your own to find these, I got mine mainly from eBay as they're difficult to source right now
 
-- Official Raspberry Pi PoE+ Hats: https://www.raspberrypi.com/products/poe-plus-hat/
+- [Official Raspberry Pi PoE+ Hats:]https://www.raspberrypi.com/products/poe-plus-hat/
 
 - GPIO Header Extender 4 Pack: https://www.amazon.com/dp/B08M5TWWRC?psc=1&ref=ppx_yo2ov_dt_b_product_details
 
