@@ -48,20 +48,20 @@ This is a list of the hardware I have used to get this cluster up and running:
 
 - [Official Raspberry Pi PoE+ Hats](https://www.raspberrypi.com/products/poe-plus-hat/)
 
-- GPIO Header Extender 4 Pack: https://www.amazon.com/dp/B08M5TWWRC?psc=1&ref=ppx_yo2ov_dt_b_product_details
+- [GPIO Header Extender 4 Pack](https://www.amazon.com/dp/B08M5TWWRC?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 
-- PoE Header Extender: https://www.adafruit.com/product/4855#tutorials
+- [PoE Header Extender](https://www.adafruit.com/product/4855#tutorials)
 
-- NETGEAR PoE+ Switch (GS305EP): https://www.amazon.com/dp/B08LR18SC4?ref=ppx_yo2ov_dt_b_product_details&th=1
+- [NETGEAR PoE+ Switch (GS305EP)](https://www.amazon.com/dp/B08LR18SC4?ref=ppx_yo2ov_dt_b_product_details&th=1)
 
-- Cat6 Patch Cabling: https://www.amazon.com/dp/B01IQWGKQ6?psc=1&ref=ppx_yo2ov_dt_b_product_details
+- [Cat6 Patch Cabling](https://www.amazon.com/dp/B01IQWGKQ6?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 
-- GeekPi Cluster Case: https://www.amazon.com/dp/B083FDHPBH?psc=1&ref=ppx_yo2ov_dt_b_product_details
+- [GeekPi Cluster Case](https://www.amazon.com/dp/B083FDHPBH?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 
-- Cheap 32GB SD Card: https://www.amazon.com/dp/B07Q384TPK?psc=1&ref=ppx_yo2ov_dt_b_product_details
+- [Cheap 32GB SD Card](https://www.amazon.com/dp/B07Q384TPK?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 
-- SanDisk 32GB USB Drive (Boot): https://www.amazon.com/dp/B07MPCJDXS?ref=ppx_yo2ov_dt_b_product_details&th=1
+- [SanDisk 32GB USB Drive (Boot)](https://www.amazon.com/dp/B07MPCJDXS?ref=ppx_yo2ov_dt_b_product_details&th=1)
 
-- SanDisk 64GB USB Drive (Storage): https://www.amazon.com/dp/B077VYCV37?ref=ppx_yo2ov_dt_b_product_details&th=1
+- [SanDisk 64GB USB Drive (Storage)](https://www.amazon.com/dp/B077VYCV37?ref=ppx_yo2ov_dt_b_product_details&th=1)
 
-- M4 Standoff Kit: https://www.amazon.com/dp/B07PKTVB18/ref=twister_B07D782FJJ?_encoding=UTF8&psc=1
+- [M4 Standoff Kit](https://www.amazon.com/dp/B07PKTVB18/ref=twister_B07D782FJJ?_encoding=UTF8&psc=1)
