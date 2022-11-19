@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: longhorn-ingress-lb
+  namespace: longhorn-system
+spec:
+  selector:
+    app: longhorn-ui
+  type: LoadBalancer
+  loadBalancerIP: IP_FROM_METALLB_RANGE # make sure you put your own IP address here from within your metallb IP range
+  ports:
+    - name: http
+      protocol: TCP
+      port: 80
+      targetPort: http
