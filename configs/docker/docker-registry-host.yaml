@@ -1,0 +1,8 @@
+- name: Adding Docker Registry IP to /etc/hosts file
+  hosts: all
+  tasks:
+  - name: Add entry
+    lineinfile:
+      path: /etc/hosts
+      line: 'IP_FOR_DOCKER_REGISTRY registry registry.cube.local'
+      insertafter: '127.0.1.1'
